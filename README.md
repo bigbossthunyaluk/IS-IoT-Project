@@ -14,5 +14,5 @@ It's a project about building an Iot (Internet of Things) device.Measure tempera
 </ul>
 
 ![image1](/img/img1.png)
-![image2](/img/img2.png)
-![image3](/img/img3.png)
+![image2](/img/img2.jpg)
+![image3](/img/img3.jpg)
