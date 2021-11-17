@@ -13,6 +13,9 @@ It's a project about building an Iot (Internet of Things) device.Measure tempera
   <li>Box</li>
 </ul>
 
+## Report
+Independent Study project <a href="https://drive.google.com/file/d/1mHraf7U9NUNbQD-sYClgZWBZ3XIY9bex/view?usp=sharing">paper report</a>.(Thai language)
+
 ![image1](/img/img1.png)
 ![image2](/img/img2.jpg)
 ![image3](/img/img3.jpg)
